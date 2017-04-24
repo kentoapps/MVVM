@@ -1,7 +1,9 @@
-package com.kentoapps.mvvm;
+package com.kentoapps.mvvm.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.kentoapps.mvvm.R;
 
 public class LoginActivity extends AppCompatActivity {
 
