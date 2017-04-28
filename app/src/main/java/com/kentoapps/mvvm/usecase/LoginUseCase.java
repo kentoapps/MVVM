@@ -5,4 +5,6 @@ package com.kentoapps.mvvm.usecase;
  */
 
 public class LoginUseCase {
+    public void run(String user, String password) {
+    }
 }
